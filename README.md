@@ -1,2 +1,5 @@
 # starbucks-landing
-landing page with bootstrap
+
+landing page with html, css, js
+
+only desktop version
